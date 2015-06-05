@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Display","A wayland Display."]],"fn":[["default_display","Tries to connect to the default wayland display."]]});
